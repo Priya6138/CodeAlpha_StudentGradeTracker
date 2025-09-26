@@ -25,7 +25,16 @@ This system allows users students to input grades for multiple students across v
 
 ### Prerequisites
 You must have the Java Development Kit (JDK) installed on your system.
-
+## Steps
+1. Clone the Repository:
+   git clone https//github.com/Priya6138/CodeAlpha_StudentGradeTracker.git
+2. Negviate to the Directory:
+   cd Student-Grade-Tracker
+3. Compile the Java Files:
+   javac .java
+4. Run the Main Program:
+   GrateTrackerMain
+5. On-screen prompts to inputs student data. 
 ## Object-Oriented Design
 
 The project uses a modular design based on OOP principles, featuring key classes like:
